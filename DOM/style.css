@@ -1,0 +1,24 @@
+/* .box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: aqua;
+    margin: 10px;
+} */
+/* 
+div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: blueviolet;
+    color: white;
+} */
+
+/* que 2 */
+.content{
+    color: red;
+}
+
+.newClass{
+    background-color: green;
+}
