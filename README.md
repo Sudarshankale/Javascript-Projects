@@ -1,2 +1,2 @@
-# Projects
-all javascript projects
+# Javascript-Projects
+All javascript projects created by me
